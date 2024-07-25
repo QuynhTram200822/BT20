@@ -299,11 +299,6 @@ function showConfirmModal(student) {
   };
 }
 
-// Example usage: attach event listener to remove button
-// removeButton.addEventListener('click', function () {
-//   showConfirmModal(student);
-// });
-
 // Hàm tìm kiếm sinh viên
 function searchStudent() {
   // Lấy giá trị từ ô nhập liệu
